@@ -1,5 +1,11 @@
 ## Project for Malware code detection
 
+### Deployment
+
+Modify the config file in `config.py`
+
+**Do NOT** `git push` by force !!! Make sure you have pull or merge the branch before push
+
 ### 7.12 : Decide the archetecture of project use kubernetes, modify the front end UI, and commit the slides.
 
 |               |                                                                                                  |
