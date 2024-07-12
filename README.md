@@ -2,6 +2,7 @@
 
 ### 7.12 : Decide the archetecture of project use kubernetes, modify the front end UI, and commit the slides.
 
+|               |                                                                                                  |
 |---------------|--------------------------------------------------------------------------------------------------|
 | Xinyu Zhang   | Make clear of Kubernetes                                                                         |
 | Qianxu Wang   | Make clear of the open-source code architecture, explain to others tomorrow                      |
