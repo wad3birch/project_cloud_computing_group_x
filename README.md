@@ -17,3 +17,10 @@ Modify the config file in `config.py`
 | Han Bao       | Collect projects on cloud-native Kubernetes or papers, create slides today                       |
 | YiNiu Han     | Modify the front-end UI based on the understanding of Qianxu Wang's code                         |
 
+### 7.15 : Futher improve the webpage, test the function, and deploy the demo to the simple kubernetes archituecture.
+|               |                                                                                                  |
+|---------------|--------------------------------------------------------------------------------------------------|
+| Xinyu Zhang   |                                                                                                  |
+| Qianxu Wang   |                                                                                                  |
+| Han Bao       |                                                                                                  |
+| YiNiu Han     |                                                                                                  |
