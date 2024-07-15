@@ -6,7 +6,7 @@ This project builds upon the work of [LONG-9621](https://github.com/LONG-9621/Pc
 
 Modify the config file in `config.py`
 
-**Do NOT** `git push` by force !!! Make sure you have pull or merge the branch before push
+**DO NOT** `git push` by force !!! Make sure you have pull or merge the branch before push
 
 ### 7.12 : Decide the archetecture of project use kubernetes, modify the front end UI, and commit the slides.
 
