@@ -1,5 +1,5 @@
 # coding:UTF-8
-__author__ = 'dj'
+__author__ = 'Group_X'
 
 from app import app
 from flask import render_template, request, flash, redirect, url_for, send_from_directory

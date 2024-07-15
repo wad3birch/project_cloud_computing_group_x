@@ -1,5 +1,5 @@
 #coding:UTF-8
-__author__ = 'dj'
+__author__ = 'Group_X'
 
 from .data_extract import web_data, telnet_ftp_data, mail_data
 from scapy.all import *
