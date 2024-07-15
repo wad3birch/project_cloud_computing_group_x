@@ -8,7 +8,7 @@ Modify the config file in `config.py`
 
 **DO NOT** `git push` by force !!! Make sure you have pull or merge the branch before push
 
-### 7.12 : Decide the archetecture of project use kubernetes, modify the front end UI, and commit the slides.
+### 7.12 : Decide the architecture of project use kubernetes, modify the front end UI, and commit the slides.
 
 |               |                                                                                                  |
 |---------------|--------------------------------------------------------------------------------------------------|
