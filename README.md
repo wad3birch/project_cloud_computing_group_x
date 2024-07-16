@@ -2,6 +2,11 @@
 
 This project builds upon the work of [LONG-9621](https://github.com/LONG-9621/Pcap_Analyzer.git), a library designed to analyse [PCAP files]
 
+### Deadline
+* 24.07.18:1400: Poster
+* 24.07.18:2359: Slides
+* 24.07.18:2359: Code
+
 ### Deployment
 
 Modify the config file in `config.py`
