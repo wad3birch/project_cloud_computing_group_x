@@ -28,4 +28,6 @@ Modify the config file in `config.py`
 | Xinyu Zhang   |                                                                                                  |
 | Qianxu Wang   |                                                                                                  |
 | Han Bao       |                                                                                                  |
-| YiNiu Han     |                                                                                                  |
+| YiNiu Han     |            
+
+### Finished in 2024.07.19|
